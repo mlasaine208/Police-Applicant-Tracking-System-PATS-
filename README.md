@@ -11,8 +11,7 @@ Dynamics 365 v. 9 Sales and Service Online Licenses, configured Dynamics 365 v.9
 
 # Acknowledgement - Please Read Before Proceeding
 
-This solution is intended to act in trial or demonstrating purposes only. The Police Applicant Tracking System (PATS) solution is intended to act as a tool to improve recruitment and candidate management processes, specifically for law enforcement, police and sheriff organizations. Although this solution can greatly assist you in making large and effective strides in building out a baseline solution, it is important to note that guide was not based on a formal Proof of Concept (POC) or an actual production deployment.
-Therefore, by using this guide in any manner, any individual or organization who imports the PATS solution agrees to the following:
+The Police Applicant Tracking System (PATS) solution is intended to act as a tool, for either demonstration or trial-purposes only, to improve recruitment and candidate management processes, specifically for law enforcement, police and sheriff organizations. Although this solution can greatly assist you in making large and effective strides in building out a baseline solution, it is important to note that guide was not based on a formal Proof of Concept (POC) or an actual production deployment. Therefore, by using this guide in any manner, any individual or organization who imports the PATS solution agrees to the following:
 
 1.  The PATS solution is an “unmanaged solution” and intended for trial or demonstration purposes only.
 
