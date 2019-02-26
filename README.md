@@ -10,7 +10,6 @@ Please note that there will have to be some configuration of the application. Pl
 Dynamics 365 v. 9 Sales and Service Online Licenses, configured Dynamics 365 v.9 instance Customer Self-Service Portal, PowerApps and Flow licenses (P2) or included with applicable Dynamics 365 licenses (applications or plans), Common Data Service (CDS) data source configured in PowerApps Studio, administrator rights on all the above
 
 # Acknowledgement - Please Read Before Proceeding
-This document is intended to act as a guide for installing and configuring the Police Applicant Tracking System (PATS) solution. As requested, the Snohomish County Microsoft Dynamics sales team is providing Snohomish County a guide (aka “manual” or “guide”), which was based on the Los Angeles Police Department’s initial Virtual Mentor solution requirements and resulting initial product demonstration.
 
 This solution is intended to act in trial or demonstrating purposes only. The Police Applicant Tracking System (PATS) solution is intended to act as a tool to improve recruitment and candidate management processes, specifically for law enforcement, police and sheriff organizations. Although this solution can greatly assist you in making large and effective strides in building out a baseline solution, it is important to note that guide was not based on a formal Proof of Concept (POC) or an actual production deployment.
 Therefore, by using this guide in any manner, any individual or organization who imports the PATS solution agrees to the following:
