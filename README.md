@@ -7,3 +7,5 @@ These instructions will help you quickly import the Police Applicant Tracking Sy
 Please note that there will have to be some configuration of the application. I have attached a complete PATS solution configuration guide in this repository to assist you in setting up the solution. Getting Started
 
 # Pre-Requisites
+Dynamics 365 v. 9 Sales and Service Online Licenses, configured Dynamics 365 v.9 instance Customer Self-Service Portal, PowerApps and Flow licenses (P2) or included with applicable Dynamics 365 licenses (applications or plans), Common Data Service (CDS) data source configured in PowerApps Studio, administrator rights on all the above
+
